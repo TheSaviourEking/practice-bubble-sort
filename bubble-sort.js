@@ -23,6 +23,6 @@ function bubbleSort(arr) {
   // Otherwise, repeat from the beginning
   return arr;
 }
-arr = [2, 4, 6, 8, 1, 3, 5, 7, 9]
-console.log(bubbleSort(arr));
+// arr = [2, 4, 6, 8, 1, 3, 5, 7, 9]
+// console.log(bubbleSort(arr));
 module.exports = bubbleSort;
